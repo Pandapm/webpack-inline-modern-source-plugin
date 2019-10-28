@@ -1,0 +1,31 @@
+{
+  "name": "webpack-inline-modern-source-plugin",
+  "version": "1.0.0",
+  "description": "webpack-inline-modern-source-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandapm/webpack-inline-modern-source-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "inline",
+    "modern-mode"
+  ],
+  "author": "pm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandapm/webpack-inline-modern-source-plugin/issues"
+  },
+  "homepage": "https://github.com/Pandapm/webpack-inline-modern-source-plugin#readme",
+  "dependencies": {
+    "escape-string-regexp": "^2.0.0",
+    "slash": "^3.0.0",
+    "source-map-url": "^0.4.0"
+  }
+}
