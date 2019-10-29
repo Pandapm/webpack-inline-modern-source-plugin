@@ -1,6 +1,6 @@
 {
   "name": "webpack-inline-modern-source-plugin",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "webpack-inline-modern-source-plugin",
   "main": "index.js",
   "scripts": {
