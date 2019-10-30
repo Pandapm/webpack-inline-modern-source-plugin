@@ -1,6 +1,6 @@
 # webpack-inline-modern-source-plugin
 
-[![npm version](https://badge.fury.io/js/webpack-inline-modern-source-plugin.svg)](https://badge.fury.io/js/html-webpack-inline-source-plugin)
+[![npm version](https://badge.fury.io/js/webpack-inline-modern-source-plugin.svg)](https://badge.fury.io/js/webpack-inline-modern-source-plugin)
 
 An extension plugin for the [webpack](http://webpack.github.io) plugin [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin).It allows you to embed css and ES6 or legacy-js sources inline as you choose.
 
