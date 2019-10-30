@@ -13,7 +13,7 @@ Required node 6 or higher.
 Install:
 
 ```shell
-$ npm install --save-dev html-webpack-inline-source-plugin
+$ npm install --save-dev webpack-inline-modern-source-plugin
 ```
 
 ## Basic Usage
